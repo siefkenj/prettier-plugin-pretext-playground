@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.277444e7.css",
+    "main.js": "./static/js/main.d25c95f9.js",
+    "static/js/parsing-worker.db925a2f.worker.js": "./static/js/parsing-worker.db925a2f.worker.js",
+    "index.html": "./index.html",
+    "main.277444e7.css.map": "./static/css/main.277444e7.css.map",
+    "main.d25c95f9.js.map": "./static/js/main.d25c95f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.277444e7.css",
+    "static/js/main.d25c95f9.js"
+  ]
+}
