@@ -9,6 +9,8 @@ script:
 before_install:
   - dpkg --compare-versions `npm -v` ge 8.5.1 || npm i -g npm@^8.5.1
   - npm --version
+install:
+  - npm ci --force
 after_failure: cat /home/travis/.npm/_logs/*-debug.log
 warnings_are_errors: false
 env:
